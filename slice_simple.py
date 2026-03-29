@@ -2,6 +2,7 @@ def slice_simple():
     """Dado el texto 'Awesome', imprime distintos substrings
     usando slicing y lower().
     """
+    pass
     texto = "Awesome"
 
     # ________________________________________RESOLUCION EJERCICIO 6_______________________________________
