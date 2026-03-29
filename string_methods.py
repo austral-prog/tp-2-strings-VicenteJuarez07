@@ -6,9 +6,10 @@ def string_methods():
     pass
     nombre = "   Grace Hopper   "
     frase = "Python es un gran lenguaje de programacion"
-    multilinea = """Linea 1
+    multilinea =
+    """Linea 1
     Linea 2    
-Linea 3"""
+    Linea 3"""
 
     # ________________________________________RESOLUCION EJERCICIO 9_______________________________________
 
