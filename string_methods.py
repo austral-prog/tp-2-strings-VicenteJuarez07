@@ -3,6 +3,7 @@ def string_methods():
     title, find, replace, count, operador in, slicing con paso, reverso,
     f-strings y strings multilínea.
     """
+    pass
     nombre = "   Grace Hopper   "
     frase = "Python es un gran lenguaje de programacion"
     multilinea = """Linea 1
