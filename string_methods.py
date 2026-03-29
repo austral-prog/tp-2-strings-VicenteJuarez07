@@ -6,9 +6,7 @@ def string_methods():
     pass
     nombre = "   Grace Hopper   "
     frase = "Python es un gran lenguaje de programacion"
-    multilinea = """Linea 1
-    Linea 2
-    Linea 3"""
+    multilinea = "Linea 1\nLinea 2\nLinea 3"
 
     # ________________________________________RESOLUCION EJERCICIO 9_______________________________________
 
@@ -35,4 +33,4 @@ def string_methods():
 
     print(f"Formato: {nombre.strip()} sabe {frase[0:6]}")
 
-    print(multilinea.replace('    ', ''))
+    print(multilinea)
