@@ -37,5 +37,3 @@ def string_methods():
     print(f"Formato: {nombre.strip()} sabe {frase[0:6]}")
 
     print(multilinea.replace('    ', ''))
-
-string_methods()
