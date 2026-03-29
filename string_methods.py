@@ -3,6 +3,7 @@ def string_methods():
     title, find, replace, count, operador in, slicing con paso, reverso,
     f-strings y strings multilínea.
     """
+    pass
 
     nombre = "   Grace Hopper   "
     frase = "Python es un gran lenguaje de programacion"
@@ -35,7 +36,6 @@ def string_methods():
 
     print(f"Formato: {nombre.strip()} sabe {frase[0:6]}")
 
-    #print(multilinea.replace('    ', ''))
+    print(multilinea.replace('    ', ''))
 
-    for linea in multilinea.split("\n"):
-        print(linea)
+string_methods()
